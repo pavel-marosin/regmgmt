@@ -85,7 +85,6 @@ def index():
     attendees['attendees'].reverse()
     #attendees2['attendees'].reverse()
 
-    # Render our HTML.
     return render_template(
         'index.html',
         settings={'PUSHER_KEY': PUSHER_KEY},
