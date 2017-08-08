@@ -148,7 +148,7 @@ if __name__ == '__main__':
 # app = Flask(__name__)
 #
 #
-# eventbrite = Eventbrite('CBGAUJ744FPLCTIL6ILI')
+# eventbrite = Eventbrite('xyz123')
 # user = eventbrite.get_user()
 # print user['name']
 #
